@@ -1,0 +1,1 @@
+"""Creator mail example package."""
